@@ -4,6 +4,7 @@
 *.pdf
 *.html
 !YAML/*
+college-data/
 
 # Apple Stuff
 .DS_Store
